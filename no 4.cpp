@@ -6,7 +6,7 @@ void display(string name) {
 }
 
 int main() {
-    display("Emmanuel");
+    display("Mazin");
 
     return 0;
 }
